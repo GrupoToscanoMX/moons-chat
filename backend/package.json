@@ -1,0 +1,16 @@
+{
+  "name": "moons-chat-backend",
+  "version": "1.0.0",
+  "description": "moons chat backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
+  "author": "Javier Toscano",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "socket.io": "^3.1.2"
+  }
+}

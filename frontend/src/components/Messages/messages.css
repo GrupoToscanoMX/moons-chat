@@ -1,0 +1,12 @@
+
+.friend-message {
+    background-color: lightgray;
+    padding: 10px 50px;
+    border-radius: 20px;
+}
+
+.self-message {
+    background-color: lightgreen;
+    padding: 10px 50px;
+    border-radius: 20px;
+}
